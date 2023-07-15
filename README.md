@@ -4,7 +4,7 @@ Este é o arquivo README para a aplicação backend do sistema de listas de game
 ![Modelo do Sistema de Listas de Games](https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/dslist-model.png)
 
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas:
 
 - Java
 - Spring Boot
